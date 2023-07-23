@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Fuat Çalık</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/alifuatcalik" target="blank"><img src="https://img.shields.io/twitter/follow/alifuatcalik?logo=twitter&style=for-the-badge" alt="alifuatcalik" /></a> </p>
-
 - 🔭 I’m currently working on a project that aims to create a low-code software developing platform **Rappider**
 
 - 📫 How to reach me **alifuatcalik@hotmail.com || alif.calik@gmail.com**
