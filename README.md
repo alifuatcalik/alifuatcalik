@@ -9,8 +9,8 @@ I'm a passionate and experienced developer specializing in frontend development.
 - **Framework & Libraries:** Angular, NgRx, RxJs
 - **Languages:** TypeScript, JavaScript
 - **Web Technologies:** HTML, CSS
-- **UI Libraries:** Bootstrap, Ant Design, PrimeNG
-- **Tools & Platforms:** Git, GitHub, Jira
+- **UI Libraries:** Bootstrap, Ant Design (Ng Zorro), PrimeNG, Angular Material
+- **Tools & Platforms:** Git, GitHub, GitKraken, Jira,
 
 ### 💼 Work Experience
 
